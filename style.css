@@ -1,0 +1,28 @@
+#ME
+{
+    height:200px;
+    width:150px;
+    border-radius: 50px;
+    margin-right:10px;
+    ;
+}
+
+#AA{
+    background:darkseagreen
+}
+#AB{
+    background:darkgrey
+}
+
+.MY_intro{
+    background:darkgrey
+}
+
+#AC{
+    color:brown
+}
+
+.friend{
+    height:200px;
+    width:150px;
+}
